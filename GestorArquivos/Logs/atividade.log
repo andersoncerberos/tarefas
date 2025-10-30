@@ -1,0 +1,12 @@
+30/10/2025 19:21:03,87 - CRIAR_PASTA - Sucesso: GestorArquivos 
+30/10/2025 19:21:03,87 - CRIAR_PASTA - Sucesso: GestorArquivos\Documentos 
+30/10/2025 19:21:04,10 - CRIAR_PASTA - Sucesso: GestorArquivos\Logs 
+30/10/2025 19:21:04,12 - CRIAR_PASTA - Sucesso: GestorArquivos\Backups 
+30/10/2025 19:21:04,15 - CRIAR_ARQUIVO - Sucesso: relatorio.txt 
+30/10/2025 19:21:04,21 - CRIAR_ARQUIVO - Sucesso: dados.csv 
+30/10/2025 19:21:04,22 - CRIAR_ARQUIVO - Sucesso: config.ini 
+30/10/2025 19:21:04,26 - BACKUP - Sucesso: relatorio.txt 
+30/10/2025 19:21:04,27 - BACKUP - Sucesso: dados.csv 
+30/10/2025 19:21:04,30 - BACKUP - Sucesso: config.ini 
+30/10/2025 19:21:04,38 - BACKUP_COMPLETO - Sucesso: backup_completo.bak 
+30/10/2025 19:21:04,40 - RELATORIO - Sucesso: resumo_execucao.txt 
